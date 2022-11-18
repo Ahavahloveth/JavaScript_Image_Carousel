@@ -1,0 +1,1 @@
+This is a carousel/slide task that displays six different images. using a previous and next button slide.
